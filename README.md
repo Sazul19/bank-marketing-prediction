@@ -8,7 +8,7 @@ This repository contains the implementation of my **CM2604 Machine Learning cour
 bank-marketing-ml
 ├── data/                 # Raw and processed datasets 
 ├── notebooks/            # Notebooks for data exploration, modeling, and evaluation
-├── scripts/              # Modular Python scripts)
+├── scripts/              # Modular Python scripts
 ├── reports/              # Documentation, results, and other project-related files
 ├── README.md             # Main project description
 ├── requirements.txt      # List of Python dependencies
