@@ -3,7 +3,7 @@ This repository contains the implementation of my **CM2604 Machine Learning cour
 1. **Neural Networks**
 2. **Random Forest Classifier**
 
-## Project Structure...
+## Project Structure.......
 
 bank-marketing-ml
 ├── data/                 # Raw and processed datasets 
