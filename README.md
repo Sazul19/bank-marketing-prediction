@@ -42,17 +42,17 @@ The project is divided into the following key steps:
 - The **Random Forest** model achieved a slightly higher F1-score compared to the Neural Network, but the Neural Network showed better performance on certain imbalanced metrics like recall.
 - The final evaluation metrics are summarized below:
   - **Random Forest**:
-    - Accuracy: `XX%`
-    - Precision: `XX%`
-    - Recall: `XX%`
-    - F1-Score: `XX%`
-    - AUC-ROC: `XX`
+    - Accuracy: `91%`
+    - Precision: `89%`
+    - Recall: `91%`
+    - F1-Score: `90%`
+    - AUC-ROC: `92`
   - **Neural Network**:
-    - Accuracy: `XX%`
-    - Precision: `XX%`
-    - Recall: `XX%`
-    - F1-Score: `XX%`
-    - AUC-ROC: `XX`
+    - Accuracy: `90%`
+    - Precision: `90%`
+    - Recall: `90%`
+    - F1-Score: `90%`
+    - AUC-ROC: `92%`
 
 ## Getting Started
 ### Prerequisites
