@@ -59,7 +59,6 @@ The project is divided into the following key steps:
 Ensure you have the following installed:
 - Python 3.8 or above
 - Jupyter Notebook
-- Required Python libraries (see `requirements.txt`).
 
 
 
